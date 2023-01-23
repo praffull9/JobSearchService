@@ -23,5 +23,5 @@ Searching services for Job seekers
 
 **Developed by Praffull Manekar**
 
-![]()
+!["Architecure"](https://github.com/praffull9/JobSearchService/blob/2fb72b44c534966e1e60aa51e6724378df70d2b7/ServicesArchitecture.png)
 
